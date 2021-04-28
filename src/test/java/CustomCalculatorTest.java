@@ -40,6 +40,7 @@ public class CustomCalculatorTest {
     }
 
     //나누기 테스트 작성
+
     @Test
     public void divide() {
         customCalculator = new CustomCalculator();
